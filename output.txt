@@ -1,0 +1,19 @@
+18 36
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . S X 
+X . X X X X X X X X X X X X X X X X X X X X X X X   X X X X X X X X   X 
+X . X X . . . X . . . X             X X X X X X X       X X           X 
+X . X X . X . X . X . X   X X X X   X X X X X X X X X   X X   X X X X X 
+X . X X . X . X . X . X . . . . . . . . .         X X   X X           X 
+X . X X . X . X . X . X . X   X X X X   . X X X         X X X X X X   X 
+X . X   . X . X . X . . . X         X X . X X X X X X X X             X 
+X . X X . X . X . X X X X X X X X   X X . . . . . . . . X X   X X X X X 
+X . X X . X . . . X X               X X X X X X X X X . X X           X 
+X . . . . X X X X X X   X X X X X X X             X X . X X X X X X   X 
+X X X X X X             X               X X X X   X X . X             X 
+X             X X X X X X   X X X X X   X         X X . X X   X X X X X 
+X   X X X X X X             X               X X X X X . X X           X 
+X                 X X X X X X   X X X X X X X X X X X . X X     X X   X 
+X X X X X X X X X X . . . . . . . . . . . . . . . . . . X X X X X X   X 
+X G . . . . . . . . . X X X X X X X X X X X X X X X X                 X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X 
